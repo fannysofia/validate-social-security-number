@@ -1,0 +1,48 @@
+input:focus {
+  outline: none;
+  background-color: lavender;
+}
+
+.validate {
+  padding: 4px;
+}
+
+.validate1 {
+  background-color: lightblue;
+}
+
+.validate2 {
+  background-color: lightgreen;
+}
+
+.validate3 {
+  background-color: lightyellow;
+}
+
+.validate4 {
+  background-color: lightcyan;
+}
+
+.validate5 {
+  background-color: white;
+  text-align: center;
+}
+
+.validate6 {
+  background-color: lightgrey;
+}
+
+.label {
+  display: inline-block;
+  width: 100px;
+  margin-left: 25px;
+  padding-right: 5px;
+}
+
+.input {
+  padding-left: 5px;
+}
+
+h1 {
+  text-align: center;
+}
